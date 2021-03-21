@@ -1,0 +1,27 @@
+{
+  "name": "quick-map",
+  "version": "1.0.0",
+  "description": "\"A Javascript module to map (quickly) from one object to another withput writing any code\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Youssef93/quick-map.git"
+  },
+  "keywords": [
+    "Mapping",
+    "JSON",
+    "Objects",
+    "Schema",
+    "JSON",
+    "Schema"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Youssef93/quick-map/issues"
+  },
+  "homepage": "https://github.com/Youssef93/quick-map#readme"
+}
